@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import {
-  Shield,
   ShieldAlert,
   Terminal,
   Network,
@@ -18,13 +17,41 @@ function App() {
     <div className="min-h-screen bg-[#0a0f18] text-gray-300 font-sans selection:bg-cyan-500 selection:text-white">
       {/* NAVBAR */}
       <nav className="flex items-center justify-between px-8 py-6 border-b border-gray-800">
-        <div className="flex items-center gap-2 text-white font-bold text-xl">
-          <Shield className="text-cyan-400" />
-          <span>
-            <a href="">
-              Waliul<span className="text-cyan-400"> Alam</span>
-            </a>
-          </span>
+        <div className="flex items-center gap-3 text-white font-bold text-xl">
+          {/* Custom WA Shield SVG directly embedded */}
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 100 100"
+            className="w-8 h-8 md:w-10 md:h-10 drop-shadow-md"
+          >
+            {/* Dark background */}
+            <rect width="100" height="100" rx="20" fill="#0a0f18" />
+            {/* Cyan Shield Outline */}
+            <path
+              d="M50 15 L85 30 V50 C85 70 50 85 50 85 C50 85 15 70 15 50 V30 L50 15 Z"
+              fill="none"
+              stroke="#22d3ee"
+              strokeWidth="6"
+              strokeLinejoin="round"
+            />
+            {/* WA Text */}
+            <text
+              x="50"
+              y="60"
+              fontFamily="Arial, sans-serif"
+              fontSize="24"
+              fontWeight="bold"
+              fill="#ffffff"
+              textAnchor="middle"
+              letterSpacing="2"
+            >
+              WA
+            </text>
+          </svg>
+
+          <a href="#home" className="hover:text-cyan-400 transition mt-1">
+            Waliul<span className="text-cyan-400"> Alam</span>
+          </a>
         </div>
         <div className="hidden md:flex gap-6 text-sm font-semibold">
           <a href="#home" className="hover:text-cyan-400 transition">
