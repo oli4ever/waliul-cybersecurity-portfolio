@@ -44,7 +44,7 @@ function App() {
           </a>
         </div>
         <a
-          href="/CV.pdf"
+          href={`${import.meta.env.BASE_URL}CV.pdf`}
           target="_blank"
           className="bg-cyan-600 hover:bg-cyan-500 text-white px-4 py-2 rounded-md text-sm font-bold transition"
         >
@@ -69,9 +69,9 @@ function App() {
         </h2>
         <p className="max-w-2xl text-gray-400 mb-10">
           Results-driven IT Leader with 12+ years of experience in enterprise
-          network security, Windows Server administration, and Cisco routing.
-          Proven track record of securing organizational assets through
-          proactive risk mitigation and incident response.
+          network security, Windows Server administration, and enterprise
+          routing & switching. Proven track record of securing organizational
+          assets through proactive risk mitigation and incident response.
         </p>
         <div className="flex gap-4">
           <a
