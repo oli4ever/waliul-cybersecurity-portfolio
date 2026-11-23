@@ -1,16 +1,48 @@
-# React + Vite
+# Waliul Alam - Cybersecurity & IT Infrastructure Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the source code of my professional portfolio website. This project showcases my 12+ years of experience in IT infrastructure, network security, and incident response, highlighting my transition into SOC Analyst and IT Security roles.
 
-Currently, two official plugins are available:
+🌐 **Live Website:** [https://oli4ever.github.io/waliul-cybersecurity-portfolio/](https://oli4ever.github.io/waliul-cybersecurity-portfolio/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎯 Purpose
+This portfolio is designed to demonstrate practical skills to cybersecurity recruiters and hiring managers. It features:
+*   **Security Case Files:** Detailed reports on wireless security auditing (WPA2), Windows Server hardening, and enterprise CCTV/access control deployments.
+*   **Professional Experience:** A timeline of my 12-year career managing enterprise networks and securing organizational assets.
+*   **Technical Skills:** A quick overview of my proficiencies in Kali Linux, Wireshark, Nmap, Active Directory, and enterprise routing/switching.
 
-## React Compiler
+## 🛠️ Tech Stack
+This project is built using modern frontend technologies to ensure a fast, responsive, and secure user experience:
+*   **Framework:** React (Vite)
+*   **Styling:** Tailwind CSS (v4)
+*   **Icons:** Lucide React
+*   **Deployment:** GitHub Pages (`gh-pages`)
+*   **Design Style:** Dark mode / SOC Dashboard theme
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Running the Project Locally
+If you would like to run this project locally on your machine:
 
-## Expanding the ESLint configuration
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/oli4ever/waliul-cybersecurity-portfolio.git
+   ```
+2. Navigate into the directory:
+  ```bash
+   cd waliul-cybersecurity-portfolio
+  ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+ 4. Start the development server:
+    ```bash
+    npm run dev
+    ```
+    📫 Contact
+LinkedIn: [Md. Waliul Alam](https://www.linkedin.com/in/waliulalam/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Email: oli.cste10@gmail.com
+
+Disclaimer: The penetration testing and security audits mentioned in this portfolio were conducted in a controlled lab environment or on networks where explicit authorization was granted.
+
+
+    
