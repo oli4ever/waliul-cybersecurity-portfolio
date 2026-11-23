@@ -37,12 +37,13 @@ If you would like to run this project locally on your machine:
     ```bash
     npm run dev
     ```
-    📫 Contact
+📫 Contact
+
 LinkedIn: [Md. Waliul Alam](https://www.linkedin.com/in/waliulalam/)
 
 Email: oli.cste10@gmail.com
 
-Disclaimer: The penetration testing and security audits mentioned in this portfolio were conducted in a controlled lab environment or on networks where explicit authorization was granted.
+**Disclaimer:** The penetration testing and security audits mentioned in this portfolio were conducted in a controlled lab environment or on networks where explicit authorization was granted.
 
 
     
