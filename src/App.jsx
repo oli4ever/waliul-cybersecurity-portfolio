@@ -108,7 +108,7 @@ function App() {
             <FileText size={18} /> View Case Files
           </a>
           <a
-            href="https://github.com/oli4ever"
+            href="https://github.com/waliul-alam"
             target="_blank"
             rel="noreferrer"
             className="border border-gray-600 hover:border-cyan-400 text-white px-6 py-3 rounded-md font-bold flex items-center gap-2 transition relative z-50 cursor-pointer"
@@ -178,7 +178,7 @@ function App() {
               <p>Category: Network Penetration</p>
             </div>
             <a
-              href="https://github.com/oli4ever/wireless-security-audit-lab"
+              href="https://github.com/waliul-alam/wireless-security-audit-lab"
               target="_blank"
               rel="noreferrer"
               className="block text-center bg-cyan-900/30 text-cyan-400 py-2 rounded hover:bg-cyan-800 transition"
@@ -424,7 +424,7 @@ function App() {
             <Linkedin size={20} /> LinkedIn
           </a>
           <a
-            href="https://github.com/oli4ever"
+            href="https://github.com/waliul-alam"
             target="_blank"
             rel="noreferrer"
             className="flex items-center gap-2 text-cyan-400 hover:text-white transition"
