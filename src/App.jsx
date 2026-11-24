@@ -49,7 +49,7 @@ function App() {
             </text>
           </svg>
 
-          <a href="#home" className="hover:text-cyan-400 transition mt-1">
+          <a href="" className="hover:text-cyan-400 transition mt-1">
             Waliul<span className="text-cyan-400"> Alam</span>
           </a>
         </div>
@@ -293,7 +293,7 @@ function App() {
                 Feb 2024 - Dec 2025
               </span>
               <h4 className="text-xl font-bold text-white">
-                Self-Employed Frontend Developer
+                Independent IT & Web Solutions Consultant
               </h4>
               <h5 className="text-gray-400 text-sm mb-3">
                 GitHub (Open Source)
