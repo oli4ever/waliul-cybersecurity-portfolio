@@ -2,7 +2,7 @@
 
 Welcome to the source code of my professional portfolio website. This project showcases my 12+ years of experience in IT infrastructure, network security, and incident response, highlighting my transition into SOC Analyst and IT Security roles.
 
-🌐 **Live Website:** [https://oli4ever.github.io/waliul-cybersecurity-portfolio/](https://oli4ever.github.io/waliul-cybersecurity-portfolio/)
+🌐 **Live Website:** [https://waliul-alam.github.io/waliul-cybersecurity-portfolio/](https://waliul-alam.github.io/waliul-cybersecurity-portfolio/)
 
 ## 🎯 Purpose
 This portfolio is designed to demonstrate practical skills to cybersecurity recruiters and hiring managers. It features:
@@ -23,7 +23,7 @@ If you would like to run this project locally on your machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/oli4ever/waliul-cybersecurity-portfolio.git
+   git clone https://github.com/waliul-alam/waliul-cybersecurity-portfolio.git
    ```
 2. Navigate into the directory:
   ```bash
